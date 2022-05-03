@@ -1,0 +1,1 @@
+# ya-prak-go-4-package
